@@ -1,0 +1,2 @@
+# registry
+Manage project registrations.
