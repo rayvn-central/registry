@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Project 'valt' Registration
+# Project Registration
 
 projectName=valt
 projectUrl=https://github.com/phoggy/rayvn
