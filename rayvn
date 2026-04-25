@@ -3,5 +3,6 @@
 # Project Registration
 
 projectName='rayvn'
+projectDescription='A shared library ecosystem for bash 5.3+.'
 projectUrl='https://github.com/phoggy/rayvn'
 projectRegisteredDate='2025-01-21_09.23.57_PDT'
