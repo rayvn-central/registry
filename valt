@@ -2,6 +2,7 @@
 
 # Project Registration
 
-projectName=valt
-projectUrl=https://github.com/phoggy/rayvn
+projectName='valt'
+projectDescription='Encrypt file archives using age encryption. Built with rayvn.'
+projectUrl='https://github.com/phoggy/valt'
 projectRegisteredDate='2025-01-21_09.23.57_PST'
