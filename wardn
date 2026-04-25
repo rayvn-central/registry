@@ -2,6 +2,7 @@
 
 # Project Registration
 
-projectName=wardn
-projectUrl=https://github.com/phoggy/rayvn
+projectName='wardn'
+projectDescription='Encrypted Bitwarden vault backups. Built with rayvn and valt.'
+projectUrl='https://github.com/phoggy/wardn'
 projectRegisteredDate='2025-01-21_09.23.57_PST'
